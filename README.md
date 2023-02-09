@@ -1,10 +1,10 @@
-# Szia 👋
+# 👋 Szia
 
 I'm Bence. A passionate fullstack developer.
 
 Recently I've been creating transitional webapps with SvelteKit & serverless backends with Node.js on AWS.
 
-## Tools & Technologies I like to work with
+## 🛠️ Tools & Technologies I like to work with
 
 <table>
     <tr>
@@ -71,7 +71,7 @@ Recently I've been creating transitional webapps with SvelteKit & serverless bac
     </tr>
 </table>
 
-## My certificates
+## 🔖 My certificates
 
 <table>
     <tr>
