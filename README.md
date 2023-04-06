@@ -24,13 +24,13 @@ Recently I've been creating transitional webapps with SvelteKit & serverless bac
             <img src="icons/typescript-plain.svg" width="36" height="36">
         </td>
         <td>
+            <img src="icons/react-original.svg" width="36" height="36">
+        </td>
+        <td>
             <img src="icons/angularjs-plain.svg" width="36" height="36">
         </td>
         <td>
             <img src="icons/svelte-original.svg" width="36" height="36">
-        </td>
-        <td>
-            <img src="icons/sass-original.svg" width="36" height="36">
         </td>
         <td>
             <img src="icons/tailwindcss-original.svg" width="36" height="36">
