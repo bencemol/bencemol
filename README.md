@@ -76,10 +76,10 @@ Recently I've been creating transitional webapps with SvelteKit & serverless bac
 <table>
     <tr>
         <td>
-            <img src="https://user-images.githubusercontent.com/62985992/165892583-43894201-39d0-4fa9-8d77-d8004a78d9c7.png" width="110" height="110">
+            <img src="https://user-images.githubusercontent.com/62985992/232446808-8c6ad72c-2d6e-4d12-b652-0fa86f2f0a2c.png" width="110" height="110">
         </td>
         <td>
-            <img src="https://user-images.githubusercontent.com/62985992/232446808-8c6ad72c-2d6e-4d12-b652-0fa86f2f0a2c.png" width="110" height="110">
+            <img src="https://user-images.githubusercontent.com/62985992/162381787-451f53f8-7cee-483a-8c2a-23737d39772b.png" width="110" height="110">
         </td>
     </tr>
 </table>
