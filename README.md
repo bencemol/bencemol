@@ -2,7 +2,7 @@
 
 I'm Bence. A passionate fullstack developer.
 
-Recently I've been creating transitional webapps with SvelteKit & serverless backends with Node.js on AWS.
+I design and build web applications
 
 ## 🛠️ Tools & Technologies I like to work with
 
